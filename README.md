@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<code><img height="150" src="https://github.com/ar414-com/ar414-com/blob/master/assets/ar414.png"></code>
+
 ### Hi there, I'm [ar414](https://ar414.com) 👋
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
