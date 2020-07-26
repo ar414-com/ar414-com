@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [ar414](https://ar414.com) 👋
 
-- 🔭 I’m currently working on my project [PanSen Panel](https://github.com/ar414-com/pansen-panel)
+- 🔭 I’m currently working on my project Riot Live Client Data API Panel [PanSen-Panel](https://github.com/ar414-com/pansen-panel)
 - 🌱 I’m currently learning [ffmpeg](https://ffmpeg.org) & [laravel 7](https://laravel.com/docs/7.x)
 - 👯 I’m looking to collaborate on web software development
 - 💬 Ask me about anything [here](https://github.com/ar414-com/ar414-com/issues)
